@@ -49,7 +49,7 @@ Esta idea fue concebida para emular un poco la utilidad del autoloader de PHP.
     |       └── autoloader.py
     ├── hooks
     |       └── test.py
-    └── index.py    
+    └── main.py    
 
 ## 3- Ejemplo de uso
 
